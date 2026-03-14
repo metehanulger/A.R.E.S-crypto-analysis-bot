@@ -27,7 +27,7 @@ A crypto futures signal bot for Binance that scans 24 major altcoin pairs every 
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/metehanulger/A.R.E.S-crypto-analysis-bot.git
-cd ares-signal-bot
+cd A.R.E.S-crypto-analysis-bot
 ```
 
 ### 2. Install dependencies
